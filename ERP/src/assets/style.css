@@ -968,3 +968,15 @@ a {
     margin-left: 10px;
     box-shadow: 10px 5px 10px #726e6e;
 }
+
+
+/* image  profile*/
+
+.profilerounded-circle {
+    border-radius: 50px;
+    margin-top: -15px;
+}
+
+.chatmargin {
+    margin-top: -15px;
+}
